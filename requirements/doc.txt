@@ -4,3 +4,4 @@ sphinx-gallery>=0.1.12
 pillow>=4.2.1
 nb2plots>=0.5.2
 texext>=0.5
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
